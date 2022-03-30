@@ -1,2 +1,5 @@
 #!/bin/bash
-cd /tmp/ ; mkdir my_first_directory
+set -e
+
+cd /tmp/
+mkdir my_first_directory
