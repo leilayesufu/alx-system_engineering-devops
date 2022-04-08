@@ -1,3 +1,3 @@
 # alx-system_engineering-devops
 
-This is my read me file
+This is a repository containging my tasks performred on shell basics on my linux terminal. 
